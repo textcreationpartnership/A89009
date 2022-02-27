@@ -1,0 +1,791 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to all people in general. Together with a warning to the drunkards of England, who were my companions in the kingdom of darkness, whom my soul pities. : Being a testimony to the way and truth of God ... / Robert Maynforth.</title>
+            <author>Maynforth, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89009</idno>
+            <idno type="STC">Wing M1489A</idno>
+            <idno type="STC">ESTC R180492</idno>
+            <idno type="EEBO-CITATION">45789361</idno>
+            <idno type="OCLC">ocm 45789361</idno>
+            <idno type="VID">172672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172672)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to all people in general. Together with a warning to the drunkards of England, who were my companions in the kingdom of darkness, whom my soul pities. : Being a testimony to the way and truth of God ... / Robert Maynforth.</title>
+                  <author>Maynforth, Robert.</author>
+               </titleStmt>
+               <extent>39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Sowle; and sold at the Crooked-Billet in Holywell-Lane, in Shorsditch,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages tightly bound, with some loss of print.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works --  Early works to 1800.</term>
+               <term>Alcoholism --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172672:1" rendition="simple:additions"/>
+            <p>AN EXHORTATION To all People in general.</p>
+            <p>Together with a WARNING TO THE Drunkards OF ENGLAND, Who were my Companions in the Kingdom of Darkneſs, whom my Soul pities.</p>
+            <p>Being a Teſtimony to the Way and Truth of God, by one whom the Lord hath vi<g ref="char:EOLhyphen"/>ſited, and in ſome meaſure gathered out of the World, and Wickedneſs thereof; Known by the Name of <hi>Robert Maynforth.</hi>
+            </p>
+            <p>Printed for <hi>T. Sowle;</hi> And ſold at the Crooked-Billet in <hi>Holywell-Lane,</hi> in <hi>Shorsditch,</hi> 1691.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172672:2"/>
+            <pb n="3" facs="tcp:172672:2"/>
+            <head>AN EXHORTATION To all PEOPLE In general, <hi>&amp;c.</hi>
+            </head>
+            <head>To the Reader, or Readers.</head>
+            <p>THE ſeveral Particulars following this Epiſtle, are ſome things writ<g ref="char:EOLhyphen"/>ten and declared, which I met with and paſſed through, as I travelled from <hi>Ae<g ref="char:EOLhyphen"/>gypt</hi> and <hi>Sodom,</hi> where out Lord Jeſus was crucified, in the way as I walked towards the Lord's holy Mountain, which the Lord is Eſtabliſhing in the top of the Mountains, and ſhall be exalted above the Hills, and all Nations ſhall flow to it, that the Lord may teach them of his Ways, that they may walk in his Paths, which leads to the Land of Reſt and Peace for ever.</p>
+            <p>For I knowing that a few Words in due Seaſon, may be ſerviceable to the Weak, and
+<pb n="4" facs="tcp:172672:3"/>to thoſe who have any deſires after God, or ſuch as be ſeeking the way to <hi>Sion,</hi> with their Faces thither wards, that they may not look out at any dangers or difficulties that the Enemy of their Souls ſhall preſent, but to go on in the Name &amp; Power of the Lord God, who will give them ſtrength to go through all the hardſhips that ever may befall them, if they be faithful to him: Therefore, I adviſe all that are honeſt-hearted, look not forth to the Mountain of <hi>Samaria,</hi> nor to the Temple for worſhip, nor to the <hi>Maſters of Art</hi> (as they are called) to be taught, who are ſtrangers and aliens to the Life of God, which is the Light of men, and there<g ref="char:EOLhyphen"/>fore muſt be miſerable Comforters, as I can truly ſay by Experience, they were to me: Moſt men in this part of the Country, who have known my Education from my Youth, know that I was brought up all my days amongſt them; ſo as to them it is little need of declaring or writing what my Converſation hath been, ſeeing they cannot but know it; yet for Truth's ſake, and for the good-will I bear to all People, who have any deſire<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereafter, whoſe Faces I have not ſeen, nor they me known, I am not aſhamed to con<g ref="char:EOLhyphen"/>feſs and declare my manner of Life, in the days of my former Converſation, in the time of ignorance, which the Lord was plea<g ref="char:EOLhyphen"/>ſed to wink at, that he alone may have the
+<pb n="5" facs="tcp:172672:3"/>Honour of his own Work, who hath put it into my heart for to do it, that he only may have the praiſe of the ſame, who is God over all bleſſed for ever.</p>
+            <p>I was ſeventen Years of Age before I drank any ſtrong Drink; and before I was Twenty Years old, I was clearly let ſee the evil and abuſe of it, and through the occa<g ref="char:EOLhyphen"/>ſion and acquaintance I had amongſt men, I ſaw the Temptation, whereof I had de<g ref="char:EOLhyphen"/>ſire to ſhun, and ſo continued in a pretty moderation until I was Thirty years old, and then began the Enemy of my Soul to draw me out into Liberty and Looſeneſs, and to keep company with proud men who de<g ref="char:EOLhyphen"/>lighted in Drunkenneſs; and all along in this filthy Abomination, even National <hi>Prieſts</hi> and <hi>Teachers</hi> were one with me in the ſame Exceſs of Riot, which blinded me the more: and ſo I can truly ſay, the Leaders of the People cauſed me to err, thinking I might do as they did; yet all that time of Darkneſs and Ignorance the Lord had not left himſelf without a Witneſs within me, which teſtified daily againſt that courſe of Life I then lived in, which often broke my Peace, and troubled me many times, ſo that ſometimes I could not ſleep nor reſt; and ſo I continued in that condition, until I was Forty years of Age: And I having a precious Woman to my Wife, who began to ſee the
+<pb facs="tcp:172672:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:172672:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:172672:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:172672:6"/>emptineſs of the <hi>Prieſts</hi> Teachings, and to leave hearing of them, finding them to be fruitleſs Trees, which cumber the Ground, and burden the Creation, and bring no Fruit to God; and ſhe waiting in ſimplicity of heart, found ſomething check and reprove her inwardly, after which ſhe was drawn to thoſe People who are in ſcorn called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> amongſt whom it was clearly manifeſt<g ref="char:EOLhyphen"/>ed to her, that the Light of the Spirit of Chriſt Jeſus, was a ſufficient Teacher and Leader into all Truth; and then began the Prieſts to caſt their Envy and Malice not on<g ref="char:EOLhyphen"/>ly againſt my poor Wife, but againſt me, for ſuffering her to go to the <hi>Quakers</hi> Mee<g ref="char:EOLhyphen"/>tings, (as they call'd them) and ſo endea<g ref="char:EOLhyphen"/>voured to ſtir me up againſt my dear Wife, and put it upon me to tell her, <hi>If ſhe would not ceaſe Meeting with them, and deſert them, I might leave and forſake her;</hi> and that I ought to tell her, <hi>They met together to commit Whore<g ref="char:EOLhyphen"/>dom &amp; Filthineſs in lying one with another;</hi> and this they preſſed daily upon me; But truly they could not perſwade me to believe any ſuch thing, becauſe I knew her Converſation to be Chaſte, and always coupled with fear, and witneſſing daily againſt my ungodly Practices, which I was condemned for in my ſelf; and being upon a time under Condem<g ref="char:EOLhyphen"/>nation, for the Deeds I had done, which ſhe perceived, and knew at ſuch times I was
+<pb n="7" facs="tcp:172672:6"/>willing to pleaſe her, that ſhe might not condemn me alſo, asked me, <hi>If I would per<g ref="char:EOLhyphen"/>mit and allow that ſome of her Friends might have a Meeting at my Houſe;</hi> which to pleaſe her withal (rather then out of love to the Truth) I was made willing to it: She ask<g ref="char:EOLhyphen"/>ed me to hear them, which I was much un<g ref="char:EOLhyphen"/>willing to: She ſaid, <hi>If I would hear them, if I could ſay any thing againſt what they decla<g ref="char:EOLhyphen"/>red, I might ſpeak and object: And if they could not make good what they had ſpoken, ſhe would ask me for no more Meetings:</hi> At which Mee<g ref="char:EOLhyphen"/>ting I was convinced, tho' not converted; for by that of God in my Conſcience I was ſatisfied that what was declared, was Truth; ſo within a ſhort time after, I was made willing to come out from the Prieſts, and their Maſs-Houſes alſo, and went among the People of God, together with my dear Wife, tho' with much ſhame and trouble, to bear the Scoffs and Reproaches of wicked People, which cauſed me to reaſon in my ſelf, and conclude ſuch Revilings and Scorn I could not bear, therefore I thought to con<g ref="char:EOLhyphen"/>form a little to my Companions and Ac<g ref="char:EOLhyphen"/>quaintance, and own thoſe People too, and ſo I continued at leaſt a Year; and then I was let ſee, I could not be Heir of two King<g ref="char:EOLhyphen"/>doms; and if I did not walk faithfully be<g ref="char:EOLhyphen"/>fore the Lord, in what he had manifeſted to me, and in me, to be my duty, who knew
+<pb n="8" facs="tcp:172672:7"/>my heart, and the thoughts thereof, it had been better for me not to have known the way of God, and his Righteouſneſs, then af<g ref="char:EOLhyphen"/>ter to have known it, to turn therefrom: Upon which conſideration, I began to be more faithful to the Lord in what he requi<g ref="char:EOLhyphen"/>red, and ſo more ſtrength was given me, and through the Power of his Might, I be<g ref="char:EOLhyphen"/>came bolder to bear Teſtimony for the Lord againſt <hi>Prieſts, Tythes</hi> and <hi>Offerings,</hi> which were only to continue during the firſt Co<g ref="char:EOLhyphen"/>venant, and through the Lord's power was carried over them, through Priſons and ſpoiling of Goods, for the Lord's ſake and his Truth, and had Joy thereby in the pre<g ref="char:EOLhyphen"/>ſence of mine Enemies. So <hi>Friends,</hi> I can truly ſay, by experience, that it is faithful<g ref="char:EOLhyphen"/>neſs to the Light of Chriſt Jeſus, that the Lord requires, for to obey is better than Sacrifice, and to hearken then the fat of Rams; therefore it is nothing of that which is Natural of our ſelves, neither Carnal Wiſdom, nor Humane Learning, that can give true Knowledge of God, and his Will to the Creature; but it is the Lord's Work in the Creature, through mercy, to reveal himſelf by the Light of his Son, which hath not only lightned me and ſome few more; but every man that cometh into the World, that through him, who is Light, and in him is no Darkneſs at all, People might be ſa<g ref="char:EOLhyphen"/>ved
+<pb n="9" facs="tcp:172672:7"/>from darkneſs, and the deeds thereof, which are Carnal, Senſual and Deviliſh.</p>
+            <p>So all dear Hearts, to the true Light which you are all enlightned with, I commit you, deſiring you in God's fear it may lead you and guide you in all things, at all times, and be your Counſellor when you lie down, and when you riſe up; and as you come to have unity with the Light of Chriſt Jeſus, you will come to witneſs Fellow ſhip and U<g ref="char:EOLhyphen"/>nity with God; and you will feel the ſtrength of his Love to conſtrain you to love him, honour and obey him with all your Hearts and Souls; and ſo you will witneſs a growth, and increaſe in the Knowledge of God in Chriſt Jeſus, and ſo become the Diſ<g ref="char:EOLhyphen"/>ciples and Followers of Chriſt, and know the Truth, and the Truth ſhall make you free, and by the good Leadings thereof, re<g ref="char:EOLhyphen"/>ceive the end of your Faith, even the Salva<g ref="char:EOLhyphen"/>tion of your Souls, which is many thouſand fold better than all earthly Pleaſures, and all earthly Enjoyments; therefore why ſhould we not ſell all for that Kingdom, which fades not away, which ſtands not in Meats and Drinks, but in Righteouſneſs, and Peace, and Joy in the Holy Ghoſt, which is prepared from all Eternity for them that believe in the Lord Jeſus, and for the Te<g ref="char:EOLhyphen"/>ſtimony of his Name, are made willing to forſake all the World, and the Glory there<g ref="char:EOLhyphen"/>of,
+<pb n="10" facs="tcp:172672:8"/>and love not their Lives unto Death, ſo they may finiſh their Courſe with Joy, in obeying or ſuffering what the Lord requires, that for a Recompence of Reward they may receive Eternal Life, with the little Lamb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my Father's fold, who cries after the Lord in the Power of his Might, to bring into his Reſt the Prodigals in <hi>England,</hi> that they may look upon him whom they have pierced, as I have done, who was one with them in the ſame exceſs of Riot; but now through the largeneſs of the Love of God I am become alive, who was dead, and for the Seed's ſake I cannot but declare thoſe things which I have ſeen and heard.</p>
+            <closer>
+               <signed>R. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="11" facs="tcp:172672:8"/>
+            <head>To the Drunkards of <hi>England,</hi> who were my Companions in the Kingdom of Darkneſs, whom my Soul pities.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>THE deſire of my Heart is, that all Men might come to the Knowledge of the Truth, and be ſaved, that thereby they might obtain Freedom, and come forth of <hi>Egypt,</hi> where Darkneſs remains, to the Supper of the great King, where Bread ſhall be given them, and their Waters ſhall be ſure; therefore why ſhould any periſh with Hunger, and the Way of Life and Fulneſs ſo near to every one, even within them, Truth in the inward parts, which is ſuf<g ref="char:EOLhyphen"/>ficient to lead out of all Error, and to guide their ſteps in the Paths of Peace: therefore the Way is not ſo hard, as the Souls Enemy would have People believe it is, though it be ſaid to be Narrow, it is but to that part which cannot inherit God's Kingdom; and thoſe that come to Chriſt, who is the Way to his Father, who is the Light of Men, to lead and guide them to his Father, and to make his Yoke eaſie, and his Burden light are his Witneſſes, who is that
+<pb n="12" facs="tcp:172672:9"/>true Prophet <hi>Moſes</hi> writ of, <hi>Whom the Lord would raiſe like unto me,</hi> (ſaith he) <hi>him ſhall you hear; and every one that will not hear that Prophet, ſhall be deſtroyed.</hi> So all you who have not obeyed nor regarded that Prophet, though you have been often check and reproved by him in your Hearts and Conſciences, though you obeyed him not, loving your own Wills and Carnal Pleaſures better then the God of your Life; and if he ſhould leave ſtriving with you, you are left without Excuſe, for he hath appear<g ref="char:EOLhyphen"/>ed to you, who appeared outwardly in the days of his Fleſh, and hath now in theſe laſt days appear<g ref="char:EOLhyphen"/>ed inwardly by the Light of his Spirit, according to the Scriptures, which ſaith, <hi>Chriſt within the hope of glory;</hi> And bleſſed be the Lord, thouſands be living Witneſſes of this Eternal Truth, which is herein declared of, not out of any Self-Exaltation, but for the Praiſe of God whom I honour; and the deſire of my Soul, and the end of my Writing is, (according to the good Will of God) that all may come from under Death's bonds, into the Light of the Lord Jeſus, which will let them ſee the Evil within them, and the Deceivers without them, who abide not in Chriſt's Doctrine, but teache for Doctrine the Commandments of Men, who are of the World, whoſe Ways and Worſhips are vain, who are Men-pleaſers, and reſpect mens Perſons, and receive Honour one of another, contrary to Chriſt and his Royal Law, who though he were
+<pb n="13" facs="tcp:172672:9"/>a King, he ſaid he received not Honour from Men; but thoſe men are ſet up by man, and are not true Followers of Chriſt, nor keep his Sayings, therefore I am bold to call them <hi>Sedu<g ref="char:EOLhyphen"/>cers,</hi> who follow the Luſt of the Fleſh, Covetouſ<g ref="char:EOLhyphen"/>neſs, Drunkenneſs and Pride, whoſe Lives are Prophane, and Works are abomination to the Lord, and I know they are ſeen by many, who will confeſs they are ſuch men as ſerve not the Lord Jeſus Chriſt, but their own Bellies, and yet will not be diſwaded from them, but love to follow their pernicious ways, rather then the Light of Chriſt Jeſus, which manifeſts them, and though they be Convinced that they be not Godly Teachers, nor ſent of him, yet they will not be Converted from them, to the Light of Chriſt Jeſus, which would turn them from the Power of Satan, to the Power of God, wherein is Salvation to every one that believes, to the <hi>Jew,</hi> and alſo to the <hi>Gentile;</hi> therefore is it not a ſad thing to ſee how the Devil betwitcheth People, and blinds their minds, leſt they ſhould be turned to the Truth, in this Day of the Lord's Power, wherein he is more plentiouſly pouring forth of his Spirit upon the Seed of <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> and his Bleſſings upon his Off-ſpring, which makes them cry to the Inhabitants of the Earth, who have any ſence, and be not paſt feeling, to come out from amongſt them, and touch not the unclean thing, and the Lord will receive them. Have you not read in the Scripture<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Truth,
+<pb n="14" facs="tcp:172672:10"/>of a certain Rich Man, that Chriſt ſpoke of who was clothed with Purple and fine Linnen and fared Sumptuouſly every day, who dyed, and was buried, and being in great Torments, de<g ref="char:EOLhyphen"/>ſired to have one ſent to his Father's houſe, for he had five Brethren, that he might warn then leſt they ſhould come to that place of Torment; but it was denyed him. Though it be this day teſtified to you through one who was dead, and is by the Power and Reſurrection of the Lord Jeſus Chriſt raiſed from Death to Life, to warn People, who are yet in Darkneſs, and under the ſhadow of Death, and under the power of a ſtrange King (to wit, the Soul's Adverſary) to come forth of the Darkneſs, and ſhew themſelves in the Light of the Lord Jeſus, which lighteth every man that cometh into the World, and will ſhew them their evil deeds, and lead out of them, and brings Salvation to all that are faithful, and obey him, which was the very end of his coming, to ſave loſt Men and loſt Women from their Sins, and to deſtroy the Works of the Devil, (which is Sin) under which burden of Sin and Corrup<g ref="char:EOLhyphen"/>tion the Spirit of the Lord hath ſuffered, and the Lamb as one ſlain, whoſe Bowels of Love and Merey now flows forth to his Creation, Men and Women, and would have them come to him, that they might have Life; but the God of the world hath blinded the Eye of their underſtanding, whereby they are ſettled in a Life below the Son,
+<pb n="15" facs="tcp:172672:10"/>the end thereof will be more bitter than Death, for their Reſt is (out of the Truth, out of the holy Mountain) in <hi>Egypt,</hi> where the Innocent ſuffered, and ſuffers, and the Darkneſs remains upon ſuch to this day, and they will not give up to ſet forwards towards the Land of Peace and Reſt, for the way is tedious to that Nature they are in, and the Enemies numerous, therefore it is high time to feel after the good Old Way, to the Land of Promiſe.</p>
+            <p>So in the fear of the Lord caſt away the works of Darkneſs, (Sin and Evil) and come to the Light of Chriſt Jeſus, that you may be armed with it, whereby you may be drawn out of your Luſts, out of your Pleaſures, out of your Pride, out of your Covetouſneſs, out of vain Worſhips, out of your idle talking and fool<g ref="char:EOLhyphen"/>iſh Jeſting, out of your Drunkenneſs, Wanton<g ref="char:EOLhyphen"/>neſs and <g ref="char:V">Ʋ</g>ncleanneſs, yea, and from all manner of Sin, into that which is Pure, into that which is Holy, which is of God's begetting, and is of more value then all Created Objects; is not that of God which teſtifies againſt Sin, and <g ref="char:V">Ʋ</g>ngodli<g ref="char:EOLhyphen"/>neſs? yea, I can truly ſay that was it, which judged me, and condemned me when I was young, before I was made ſenſible what it was.</p>
+            <p>So all dear People, fear the Lord, and take heed of loving your Luſts, better then the God of Life that manifeſts them, with the brightneſs of his coming, and with his breath, would deſtroy them; ſo then if you periſh in your Evil ways,
+<pb n="16" facs="tcp:172672:11"/>your Deſtruction is of your ſelves, in neglecti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo great Salvation, and not prizing your Sou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Redemption, which is freely tendred in the Co<g ref="char:EOLhyphen"/>venant of Light and Life, which is Mercy <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeakable; and that you ſhall one day confeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you are left without Excuſe to your eternal W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Miſery for evermore, if you go on in yo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Rebellion againſt the Lord, and you ſhall re<g ref="char:EOLhyphen"/>member you were warned by one, who was <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Companion with you in your unfruitful Works <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Darkneſs, called,</p>
+            <closer>
+               <signed>R. M.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="17" facs="tcp:172672:11"/>
+            <head>The true Teacher found, which manifeſteth mens Teachings unprofitable, who deny the true Teacher within.</head>
+            <l>WHere is the Word, the Life and Law,</l>
+            <l>Which keeps the Children in the Awe?</l>
+            <l>Where is the Truth, the Grace, &amp; Peace,</l>
+            <l>Which makes all Jars and Wars to ceaſe?</l>
+            <l>Where is the Light that ſhines ſo bright</l>
+            <l>Throughout the Nations in the Night?</l>
+            <l>Where is the true and ſafe poſſeſſion,</l>
+            <l>The righteous Law, above Profeſſion?</l>
+            <l>Why do the Nations 'gainſt it riſe?</l>
+            <l>Is't not becauſe it teſtifies</l>
+            <l>Againſt their deeds, that they be evil,</l>
+            <l>Acted in ſervice of the Devil?</l>
+            <l>Why doth the Woman <hi>Jezabel</hi> preach,</l>
+            <l>Who is forbidden for to teach,</l>
+            <l>And to ſeduce poor Souls with Lyes,</l>
+            <l>With painted ſhows and feigned cryes.</l>
+            <l>Tho' ſhe be decked as a Queen,</l>
+            <pb n="18" facs="tcp:172672:12"/>
+            <l>All her Adulterous skirts are ſeen,</l>
+            <l>By thoſe that cannot to her bend,</l>
+            <l>Nor ear unto her Witchcrafts lend,</l>
+            <l>Her Prieſts againſt deluſion cries,</l>
+            <l>Although themſelves be in that guiſe,</l>
+            <l>Being ſtrangers to the Living way,</l>
+            <l>Amongſt the dead they have their prey,</l>
+            <l>Tho' they the Scriptures often read,</l>
+            <l>Crying peace, peace unto the dead,</l>
+            <l>Yet they cannot the myſtery ſee,</l>
+            <l>Whoſe minds are dark i'th' Enmity,</l>
+            <l>Tho' humane Learning they have ſtore,</l>
+            <l>That makes them but adore the Whore,</l>
+            <l>Being enriched by her gain,</l>
+            <l>Cauſeth them labour with their brain,</l>
+            <l>To keep in Darkneſs all they may,</l>
+            <l>Leſt they ſhould turn from them away</l>
+            <l>Unto the Truth, (which was before</l>
+            <l>Falſe Prophet or the Scarlet Whore)</l>
+            <l>Which is the Way, Chriſt, the Churches Head,</l>
+            <l>Who gives his Children living Bread,</l>
+            <l>That they may never hunger more,</l>
+            <l>Being fed by his Eternal ſtore,</l>
+            <l>Which flows forth to his Children dear,</l>
+            <l>Who are kept low in dread and fear,</l>
+            <pb n="19" facs="tcp:172672:12"/>
+            <l>Therefore all Souls that feed below</l>
+            <l>The Bread of Life; your Food we know</l>
+            <l>To be no more than fed with death,</l>
+            <l>Feeding of that which is beneath</l>
+            <l>The Son of Righteouſneſs his Seed,</l>
+            <l>Who is Salvation ſure indeed,</l>
+            <l>To all that in his Light believes,</l>
+            <l>But Sorrow to them his Spirit grieves:</l>
+            <l>Oh come to him! who crys within,</l>
+            <l>And he'l redeem you from all Sin;</l>
+            <l>For he hath often for you waited,</l>
+            <l>To have you turn from that he hated,</l>
+            <l>Who was not far from you, (unknown)</l>
+            <l>Checking for Sin to preſs it down;</l>
+            <l>He calls to all that would be free</l>
+            <l>From Sin and all Iniquity,</l>
+            <l>To ceaſe from man, whoſe breath's ſoon ſpent,</l>
+            <l>And hear but him who breath him lent,</l>
+            <l>Who is to his a perfect Teacher,</l>
+            <l>And is the only Spirit reacher,</l>
+            <l>Who came men's Lives not to deſtroy,</l>
+            <l>But Souls to ſave from all anoy,</l>
+            <l>Who walks in vertue of his Life,</l>
+            <l>Knows that which kills both Luſt and Strife,</l>
+            <pb n="20" facs="tcp:172672:13"/>
+            <l>Of which a meaſure you have within,</l>
+            <l>That never gave conſent to Sin,</l>
+            <l>But ſtood always a Witneſs pure,</l>
+            <l>Againſt him that would you allure:</l>
+            <l>So if Redeemed you would be</l>
+            <l>Into the <hi>Chriſtians</hi> Liberty,</l>
+            <l>Slight not your day of Viſitation,</l>
+            <l>By looking at Predeſtination,</l>
+            <l>Not owning Chriſt that he ſhould reign</l>
+            <l>I'th' hearts of men, Sin to reſtrain;</l>
+            <l>Therefore come ſearch and try, and hear,</l>
+            <l>Without Money in God's pure fear,</l>
+            <l>And willing be on him to waite,</l>
+            <l>Till he appear, tho' it ſeem late,</l>
+            <l>Within your Breaſt you may him find,</l>
+            <l>If him to hear you be inclin'd.</l>
+            <l>So while it may be ſaid to day,</l>
+            <l>Come, come, and ſee where the Lord lay;</l>
+            <l>But all that will not hear his Call,</l>
+            <l>Eternal plagues ſhall on them fall,</l>
+            <l>Which ſhall for evermore endure,</l>
+            <l>And be to them their portion ſure.</l>
+         </div>
+         <div type="poem">
+            <pb n="21" facs="tcp:172672:13"/>
+            <head>The dangerous ſtate of all People, who are out of the Covenant of Life.</head>
+            <l>A Few words to all ſober-minded,</l>
+            <l>Who with darkneſs have not com<g ref="char:EOLhyphen"/>bined,</l>
+            <l>To ſerve that Prince for term of days,</l>
+            <l>Which he perſwades, without delays,</l>
+            <l>Servants to be to Sin and Evil,</l>
+            <l>It is the covenant of the Devil:</l>
+            <l>For no leſs time he will agree,</l>
+            <l>Then during Life, his Slaves to be.</l>
+            <l>So all that would your freedom know,</l>
+            <l>From Sin and Satan here below,</l>
+            <l>While you are in this Houſe of Clay,</l>
+            <l>Regard not outward Bonds I ſay,</l>
+            <l>For there the Enemy may prevail,</l>
+            <l>And cauſe your Faith thereby to fail,</l>
+            <l>Looking at things that here we ſee,</l>
+            <l>Which ſeems unpoſſible to be,</l>
+            <l>Being not ſeen with Eye of Faith,</l>
+            <l>Cannot pleaſe God, as Scripture ſaith,</l>
+            <pb n="22" facs="tcp:172672:14"/>
+            <l>But come down to God's witneſs near,</l>
+            <l>Which ſtands i'th' Conſcience alway clear</l>
+            <l>To ſhew unto you Words, and Deeds,</l>
+            <l>Whether ſavoury, or ſtinking Weeds:</l>
+            <l>And whether you hear, or forbear</l>
+            <l>That which reproves Sin, will be clear,</l>
+            <l>Which is moſt pure and light alſo,</l>
+            <l>And ſhews man Sin where-ever he go</l>
+            <l>Which is God's Love to all mankind</l>
+            <l>To give them light that were full blin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Bleſſed are they that faithful be</l>
+            <l>To what the Lord doth let them ſee</l>
+            <l>To be their duty, day and night,</l>
+            <l>Acting as in their Maſters ſight;</l>
+            <l>Then nothing can be done in haſte,</l>
+            <l>But light their Counſellor, will taſte</l>
+            <l>And judge that down, which doth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>If it be not i'th' holy fear.</l>
+            <l>And here's the Exerciſe indeed</l>
+            <l>Of <hi>Chriſtians,</hi> as they are freed:</l>
+            <l>Yet ſuch as will not Truth retain,</l>
+            <l>But in their Luſts ſtill will remain,</l>
+            <l>Aſſure themſelves this is a warning</l>
+            <l>From that which gives a true diſcernin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <pb n="23" facs="tcp:172672:14"/>
+            <l>As he can ſay who liv'd i'th' Luſt,</l>
+            <l>Before he came to know the Juſt,</l>
+            <l>And was as bad as they can be,</l>
+            <l>Until the Lord did let him ſee</l>
+            <l>By his pure Light, what he had done</l>
+            <l>Againſt the Record of his Son;</l>
+            <l>And then it was a time of trouble,</l>
+            <l>To ſee himſelf worſe than a bubble,</l>
+            <l>And he not only in that ſtate,</l>
+            <l>But all that did the Light ſo hate;</l>
+            <l>And then he wept with Sorrows grief,</l>
+            <l>Until the Lord ſent him Relief,</l>
+            <l>Which was his preſence to refreſh</l>
+            <l>His fainting Soul near to periſh.</l>
+            <l>So all wait low in Chriſt who's pure,</l>
+            <l>Till him you know your Souls to cure,</l>
+            <l>Who is the good <hi>Samaritan,</hi>
+            </l>
+            <l>To cure and heal the wounded man,</l>
+            <l>And thoſe that will not own his cure,</l>
+            <l>Eternal Plagues ſhall all endure;</l>
+            <l>And ſuch from Sorrow can never ceaſe,</l>
+            <l>Nor have therefrom any Releaſe.</l>
+         </div>
+         <div type="poem">
+            <pb n="24" facs="tcp:172672:15"/>
+            <head>Concerning Perfection.</head>
+            <l>ALL you that ſcoff at Purity,</l>
+            <l>Perfection looking not to ſee,</l>
+            <l>While you are here on this ſide Grave,</l>
+            <l>Nor any thing that ſhall you ſave</l>
+            <l>From Sin, and ſinning, while you'r her<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Yet hopes at Death you ſhall be clear;</l>
+            <l>And then to paſs to Reſt and Peace,</l>
+            <l>And have with Death a full releaſe;</l>
+            <l>So that no judgment can you grieve,</l>
+            <l>Becauſe you do on Chriſt believe.</l>
+            <l>Is this your Hope and Faith indeed,</l>
+            <l>Who lives i'th' Luſt, and have no need</l>
+            <l>To be redeem'd from that condition?</l>
+            <l>But ſtill runs on without ſuſpition,</l>
+            <l>Without the ſence of deadly danger,</l>
+            <l>Being to Truth a very ſtranger,</l>
+            <l>And him who is the good Phyſitian,</l>
+            <l>Who would cure with much contrition</l>
+            <l>And none but Chriſt can do that Cure</l>
+            <l>Of your Diſeaſe which brings moſt ſure</l>
+            <l>Eternal death to all that love it,</l>
+            <l>And none but he can remove it.</l>
+            <pb n="25" facs="tcp:172672:15"/>
+            <l>Take heed therefore no time delay,</l>
+            <l>Leſt you ſhould miſs of Cure I ſay</l>
+            <l>Of that ſo dangerous Diſeaſe,</l>
+            <l>Which without Cure brings Plagues, not caſe;</l>
+            <l>Therefore it's good to weigh the cauſe</l>
+            <l>Before you dye, to have a pauſe</l>
+            <l>How that your Souls may be delivered,</l>
+            <l>When that from Bodies they be ſevered;</l>
+            <l>For this will be both ſure and true,</l>
+            <l>That every one receive their due,</l>
+            <l>And likewiſe be rewarded ſo</l>
+            <l>According to'th' Deeds they did do</l>
+            <l>In the Bodies where they had place.</l>
+            <l>Before they had run out their race;</l>
+            <l>And look how Death doth ſtop their Wind,</l>
+            <l>So Judgment ſhall them ſurely find,</l>
+            <l>And then the Judgment ſhall proceed,</l>
+            <l>According as hath been decreed;</l>
+            <l>And all that have not walk't with God,</l>
+            <l>Aſſuredly ſhall feel his Rod,</l>
+            <l>And likewiſe many grievous Woes</l>
+            <l>Shall then be added to the Foes</l>
+            <l>Of the great God of Power and Might,</l>
+            <l>Who to all men hath given a Light</l>
+            <pb n="26" facs="tcp:172672:16"/>
+            <l>To lead them ſafe from the dark Power</l>
+            <l>And from the Sorceries of the Whore:</l>
+            <l>But to his Enemies will be torment,</l>
+            <l>Becauſe they thought not to repent,</l>
+            <l>Nor would believe that they ſhould dye,</l>
+            <l>When they tranſgreſs'd continually;</l>
+            <l>Therefore they'r left without excuſe</l>
+            <l>Who did his Witneſs then abuſe,</l>
+            <l>When they prefer'd their pleaſures here</l>
+            <l>Before the Lord, who bought them dear,</l>
+            <l>And if the Lord ſhould ſtriving ceaſe,</l>
+            <l>And ſorrow ſend, and no more peace</l>
+            <l>Unto thoſe Souls that have not priz'd</l>
+            <l>The day of God, by them deſpis'd,</l>
+            <l>How great will be their cry, and ſorrow</l>
+            <l>When day is paſt that hath no morrow</l>
+            <l>Therefore all you that loves delight</l>
+            <l>In that which is darker then night,</l>
+            <l>Awakened be, and ſtand upright</l>
+            <l>To Chriſt Jeſus in his pure Light,</l>
+            <l>Which ſhines i'th' Hearts, to let men ſee</l>
+            <l>What is not good nor pure to be;</l>
+            <l>And if obeyed in its leadings,</l>
+            <l>Will not admit ſuch proceedings,</l>
+            <l>As brought them on with ſuch an hand</l>
+            <l>As ſcarcely one to make a ſtand,</l>
+            <l>For to conſider of their end,</l>
+            <pb n="27" facs="tcp:172672:16"/>
+            <l>That do their time ſo vainly ſpend,</l>
+            <l>Their end therefore will ſadneſs bring,</l>
+            <l>Who counted Truth a lying thing,</l>
+            <l>And the pure Light a fooliſh guide,</l>
+            <l>To keep their ſteps, they ſhould not ſlide;</l>
+            <l>By which Lord keep us in thy power,</l>
+            <l>On thee to wait for evermore.</l>
+            <l>And thy pure Truth preſerve &amp; ſpread,</l>
+            <l>That they may live which now are dead.</l>
+         </div>
+         <div type="poem">
+            <head>To the Backſliders in Heart.</head>
+            <l>YOu that have ſeen the holy Land,</l>
+            <l>Wherein ripe Grapes ſo fully ſtand,</l>
+            <l>And ſome of you did taſte the Fruit,</l>
+            <l>That grew therein, tho now turn'd <hi>brute</hi>
+            </l>
+            <l>And chuſes rather with Beaſts to feed,</l>
+            <l>Then to be followers of that Seed</l>
+            <l>Which would have led you to the ſame,</l>
+            <l>And given you an eternal Name,</l>
+            <l>If you had ſtood within your Tent,</l>
+            <l>And not for fear of men relent,</l>
+            <l>But to the Lord had faithful been,</l>
+            <l>Then you like Willows had been green,</l>
+            <l>And likewiſe fed under your Vine,</l>
+            <l>Alſo refreſh'd as with new Wine:</l>
+            <pb n="28" facs="tcp:172672:17"/>
+            <l>But now you've gotten other Lovers,</l>
+            <l>And hopes beſide to have ſome covers,</l>
+            <l>Becauſe of Truth you got ſome Words,</l>
+            <l>Which will prove to your ſides like Swords;</l>
+            <l>How will you anſwer the juſt Judge,</l>
+            <l>Who do againſt his Witneſs grudge,</l>
+            <l>Which would have led you out of death,</l>
+            <l>And all things elſe that are beneath,</l>
+            <l>If you had been but honeſt-hearted,</l>
+            <l>And from the Truth never departed,</l>
+            <l>The Lord to you had been a portion,</l>
+            <l>Preſerving you from all abortion,</l>
+            <l>To teſtifie againſt the dark</l>
+            <l>Which have no covenant with the Ark:</l>
+            <l>But now you'r in a ſad condition,</l>
+            <l>By refuſing your commiſſion,</l>
+            <l>And gone to ſerve under the Beaſt,</l>
+            <l>Who promiſes your Souls to feaſt;</l>
+            <l>But you that's by the Serpent led,</l>
+            <l>And likewiſe by the Hireling fed,</l>
+            <l>Poor food it is unto your Souls,</l>
+            <l>You feed on Earth amongſt the Moles,</l>
+            <l>The duſt you know is Serpent's meat,</l>
+            <l>And Plagues is to them that do eat</l>
+            <l>Of any Bread, but that is living,</l>
+            <l>Which is not of the Father's giving,</l>
+            <pb n="29" facs="tcp:172672:17"/>
+            <l>Which he keeps for his Children dear,</l>
+            <l>Even thoſe that do him always fear,</l>
+            <l>Then thoſe that have their birth-right ſold,</l>
+            <l>For their Belly muſt pine with Cold,</l>
+            <l>And hunger muſt them pinch beſide,</l>
+            <l>Becauſe the Lord they have deny'd,</l>
+            <l>Who would have fed them to the full,</l>
+            <l>And cloth'd them better then with <hi>wool:</hi>
+            </l>
+            <l>But ſeeing the Lord you have deny'd,</l>
+            <l>Before you came for to be try'd,</l>
+            <l>What you could ſuffer for his Name,</l>
+            <l>Rather then to deny the ſame,</l>
+            <l>The greater Plagues will be your due</l>
+            <l>Then if you had not been i'th' view,</l>
+            <l>Of ſuch things as are not fading,</l>
+            <l>Freely given without upbraiding</l>
+            <l>Unto all thoſe that faithful be,</l>
+            <l>Who lives and walks in purity.</l>
+            <l>But you that have prefer'd your Lives,</l>
+            <l>Children, Houſes, or your Wives,</l>
+            <l>Before the Lord, that bought you dear</l>
+            <l>That you his Name might always fear,</l>
+            <l>Better you had not profeſt his Name,</l>
+            <l>Nor have made mention of the ſame,</l>
+            <l>Seeing you proved ſo deceitful,</l>
+            <l>And to the Truth turned hateful,</l>
+            <pb n="30" facs="tcp:172672:18"/>
+            <l>What may you now of him expect,</l>
+            <l>Who doth his Grace and Love reject;</l>
+            <l>For thoſe that know their Maſter's will,</l>
+            <l>And accordingly do not fulfill,</l>
+            <l>More ſtripes are due unto their Back,</l>
+            <l>Then them that do ſuch <hi>knowledge</hi> lack</l>
+            <l>Repent, repent I ſay, with ſpeed,</l>
+            <l>That from your Sin you may be freed,</l>
+            <l>For God is near to pardon all,</l>
+            <l>That in his Life do cry and call,</l>
+            <l>Or with the Wicked receive your hire</l>
+            <l>Eternally in flames of Fire.</l>
+         </div>
+         <div type="poem">
+            <head>To the ſuffering Seed and Birth Immortal.</head>
+            <l>TO the Seed which yet in bondage lies,</l>
+            <l>And under great oppreſſion cries</l>
+            <l>To be delivered from ſuch thrall</l>
+            <l>That it is preſſed down withall,</l>
+            <l>By the ſad weight of earthly power,</l>
+            <l>Through the Enchantments of the Whore,</l>
+            <l>Which is gone forth over the Lands,</l>
+            <l>And's not excluded with great Bands;</l>
+            <pb n="31" facs="tcp:172672:18"/>
+            <l>For all Nations under the Globe</l>
+            <l>Polluted are with the Whore's Robe,</l>
+            <l>And none can ſtand againſt her Horns,</l>
+            <l>But in that Might that bore the Thorns,</l>
+            <l>And that's the force that will ſubdue</l>
+            <l>Her filthy and rebellious crue,</l>
+            <l>By which he will likewiſe make way</l>
+            <l>For his own Seed, without delay</l>
+            <l>To paſs as through a Sea of Water,</l>
+            <l>And all his Enemies ſoon will ſcatter,</l>
+            <l>Even <hi>Pharaoh</hi> like, withall his Hoſt,</l>
+            <l>And leave them not a man to boaſt</l>
+            <l>Of what they've gotten by their Might,</l>
+            <l>In all their Fightings in the Night:</l>
+            <l>Therefore all come and lay to heart</l>
+            <l>The honeſt thing, and ſet apart</l>
+            <l>That which is evil in the ground,</l>
+            <l>And keep within the modeſt bound,</l>
+            <l>And you will ſee an Army great,</l>
+            <l>That in your hearts have got a ſeat,</l>
+            <l>Which will be work enough to quell,</l>
+            <l>For by your ſtrength you'l not repel,</l>
+            <l>Nor any force beneath the Sun</l>
+            <l>Can that remove they have begun;</l>
+            <l>Unarm'd therefore you cannot ſtand,</l>
+            <l>Before the power of ſuch a band.</l>
+            <pb n="32" facs="tcp:172672:19"/>
+            <l>Nor are you likely to prevail,</l>
+            <l>But muſt before them ſurely fail,</l>
+            <l>If not well armed with the Sword</l>
+            <l>Of the Spirit, which is the Word</l>
+            <l>O'th God of Life, of Power and Might,</l>
+            <l>Able to drive all out of ſight</l>
+            <l>That ſhall oppoſe his holy Will,</l>
+            <l>And likewiſe can their Blood ſoon ſpill;</l>
+            <l>So then its not the ſtrength of Arm</l>
+            <l>Of Fleſh that can preſerve from harm,</l>
+            <l>Nor any force of humane Nature,</l>
+            <l>That can preſerve men in that ſtature,</l>
+            <l>But that they muſt even ſoon decay,</l>
+            <l>If not refreſhed day by day</l>
+            <l>With the pleaſant and living ſtreams,</l>
+            <l>Which ſhines ſo bright with Chryſtal beams,</l>
+            <l>Which ſprings, and flows in theſe our dayes,</l>
+            <l>And fills our Hearts and Mouths with praiſe,</l>
+            <l>That we cannot now ſilent be,</l>
+            <l>But to declare what we do ſee,</l>
+            <l>And if the Enemy ſhould prevail</l>
+            <l>To caſt our Bodies in ſome Goal,</l>
+            <l>As he hath done, ſome heretofore,</l>
+            <l>Which faithful Teſtimony bore</l>
+            <pb n="33" facs="tcp:172672:19"/>
+            <l>Againſt the Rulers in thoſe times,</l>
+            <l>Who Spirit-worſhip counted crimes</l>
+            <l>In this his day that God hath rais'd</l>
+            <l>A Seed, for which his Name be prais'd;</l>
+            <l>And if our Mouths be ſtopt, from ſpeak<g ref="char:EOLhyphen"/>ing</l>
+            <l>In this good day of Light out-breaking,</l>
+            <l>We know the Lord can raiſe the dead,</l>
+            <l>To come with praiſes on their head,</l>
+            <l>Tho' they were dead as any Stones,</l>
+            <l>And had no moiſture in their Bones,</l>
+            <l>Yet that would not be Conſolation</l>
+            <l>To thoſe poor Souls in Reprobation,</l>
+            <l>But as we abide in the Spirit,</l>
+            <l>We ſee the wicked cannot inherit</l>
+            <l>The promiſes made to the Seed,</l>
+            <l>According as hath been decreed;</l>
+            <l>Therefore they hate us every way,</l>
+            <l>Yet for them we can freely pray</l>
+            <l>The Lord to open their blind Eyes,</l>
+            <l>That they may ſee whom they deſpiſe,</l>
+            <l>And this we can deſire at large,</l>
+            <l>The Lord lay not unto their charge,</l>
+            <l>What they againſt us here have wrought</l>
+            <l>When they our Lives &amp; Livings ſought:</l>
+            <l>So Lord, if it ſtand with thy Will,</l>
+            <l>Bring many Saints to <hi>Sion</hi>'s Hill,</l>
+            <pb n="34" facs="tcp:172672:20"/>
+            <l>To hear thy Voice, and pleaſant Song,</l>
+            <l>Which thou haſt ſent the Babes among,</l>
+            <l>To be their comfort, in this time</l>
+            <l>Where Innocency is counted crime,</l>
+            <l>Which is a time of great tryal,</l>
+            <l>To prove if we will make denyal</l>
+            <l>Of our true Faith, and our Profeſſion,</l>
+            <l>As thoſe have done who want poſſeſſion</l>
+            <l>Of that ſweet Life that ſhall endure,</l>
+            <l>And be to thine a comfort ſure,</l>
+            <l>In which, O Lord, us always keep</l>
+            <l>That we be ſafe, when others ſleep</l>
+            <l>In their carnal ſecuritie,</l>
+            <l>Blind i'th' darkneſs they cannot ſee,</l>
+            <l>From which, O Lord, keep us alwayes,</l>
+            <l>In thy pure Life, thy Name to praiſe.</l>
+         </div>
+         <div type="poem">
+            <head>To the Hireling Shepherds.</head>
+            <l>ALL you that Preachers, made by man,</l>
+            <l>See who requir'd that, of you than</l>
+            <l>To teach and preach for Lucres ſake,</l>
+            <l>Under pretence <hi>Chriſtians</hi> to make,</l>
+            <pb n="35" facs="tcp:172672:20"/>
+            <l>But your chief aim is for your gain,</l>
+            <l>Which makes you run with might and main,</l>
+            <l>To get your Merchandizes ſold</l>
+            <l>At a dear rate, both new and old,</l>
+            <l>For to maintain your greedy paunch,</l>
+            <l>Which is your God, him for to ſtanch,</l>
+            <l>A Law you have for to compel</l>
+            <l>People to come, to buy and ſell,</l>
+            <l>Without approving of your Wares,</l>
+            <l>They muſt accept them as their ſhares,</l>
+            <l>Altho' they be not worth the buying,</l>
+            <l>Yet pay they muſt without denying:</l>
+            <l>Are not theſe ſad and unjuſt things</l>
+            <l>To pay for them no profit brings?</l>
+            <l>And this you ſell without controul,</l>
+            <l>Which adds no comfort to the Soul,</l>
+            <l>Nor all the feigned words you ſteal</l>
+            <l>Cannot a wounded Conſcience heal,</l>
+            <l>But daubing with untempered durt,</l>
+            <l>Inſtead of Cure, you do them hurt;</l>
+            <l>For ſtill you ſeem to be in nature</l>
+            <l>Ravenous Wolves in humane ſtature,</l>
+            <l>Which doth both raven and devour</l>
+            <l>Rich mens Eſtates, as alſo poor,</l>
+            <l>Tho' you be clothed with Sheep-skin,</l>
+            <l>The Wolf's alive in you within,</l>
+            <pb n="36" facs="tcp:172672:21"/>
+            <l>Which makes you rob &amp; ſpoil the flocks,</l>
+            <l>And utterly deſtroy men's ſtocks,</l>
+            <l>You'r Truth-reſiſters, by your ſigns,</l>
+            <l>Being the men of corrupt minds,</l>
+            <l>And ſuch as now cumber the Ground,</l>
+            <l>For no good Fruit in you are found;</l>
+            <l>So you are prov'd the fruitleſs Trees,</l>
+            <l>And like the drones which ſpoil the Bees,</l>
+            <l>Altho' you read the Scripture true,</l>
+            <l>Without the Spirit, what doth enſue</l>
+            <l>But only for your carnal Wills,</l>
+            <l>You keep poor Souls in that which kills,</l>
+            <l>To which purpoſe you make a trade</l>
+            <l>Even to delude Man, Wife, and Maid,</l>
+            <l>Keeping their Souls in bondage ſtill,</l>
+            <l>If you can but the ſame fulfill,</l>
+            <l>To make them run for what you read,</l>
+            <l>And give you Money for that's no Bread;</l>
+            <l>For ſhame therefore let it ſuffice</l>
+            <l>That you be drunk with Avarice,</l>
+            <l>And ceaſe teaching and ſilent be,</l>
+            <l>And wait on Chriſt he'l let you ſee</l>
+            <l>What is your duty, and your place,</l>
+            <l>Obedient be think't no diſgrace.</l>
+            <l>That you may not be of that ſort,</l>
+            <l>Which of the holy Reſt come ſhort,</l>
+            <pb n="37" facs="tcp:172672:21"/>
+            <l>But that you may rewarded be</l>
+            <l>VVith them that lives in puritie,</l>
+            <l>VVhich will be ſweeter to your ſpirit,</l>
+            <l>Then all without you do inherit,</l>
+            <l>And bleſſed you will be alſo,</l>
+            <l>In every thing you do undergo,</l>
+            <l>And as you come t'obey the Light,</l>
+            <l>Surely your peace will be in ſight.</l>
+            <l>Lord God it grant, if that thou pleaſe,</l>
+            <l>That all that ſeek thee may find eaſe,</l>
+            <l>Through Faith in Chriſt as he's reveal'd</l>
+            <l>VVho hath the wounded always heal'd.</l>
+         </div>
+         <div type="poem">
+            <head>The <hi>Concluſion.</hi>
+            </head>
+            <l>NOw to conclude, leaving what hath been ſaid</l>
+            <l>To all that reads it, with impartial Eye,</l>
+            <l>Which to believe they need not be afraid,</l>
+            <l>Being true Words, in which there is no Lye,</l>
+            <l>Tho' Godly men were always ſcoft and ſcorn'd</l>
+            <l>For the Name of Chriſt, which was their chiefeſt good,</l>
+            <l>Yet they rejoyc'd to ſee his Truth adorn'd,</l>
+            <l>Tho' for ſo doing it coſt ſome their Blood,</l>
+            <pb n="38" facs="tcp:172672:22"/>
+            <l>Which was but that they then had left to ſpend,</l>
+            <l>That they thereby might gain a better prize,</l>
+            <l>Which would be ſweeter to their Souls i'th' end</l>
+            <l>By therein dwelling where true vertue lies,</l>
+            <l>Wherein is ſweetneſs, much better than Life</l>
+            <l>To Souls Immortal in the quiet place,</l>
+            <l>The Godly Ones who are made free from ſtrife,</l>
+            <l>Who are engag'd to run the holy race,</l>
+            <l>And come away to witneſs for the Lord,</l>
+            <l>And his pure Truth reproach'd in theſe our days,</l>
+            <l>Tho' for ſo doing they have been abhorr'd,</l>
+            <l>Which is no other but what hath been always</l>
+            <l>For Truth, is Truth, and all that do err from it,</l>
+            <l>Muſt once confeſs how they have done deſpite,</l>
+            <l>To th' Grace of God, and his holy Spirit,</l>
+            <l>By making Sin their paſtime and delight;</l>
+            <l>Yet they ſhall know to their eternal ſorrow,</l>
+            <l>That they were warn'd of what was then to come</l>
+            <l>Of a dark Night, which could bring forth no morrow,</l>
+            <l>Which is the portion and the Wicked's doom,</l>
+            <l>Who have not priz'd the day of Viſitation,</l>
+            <l>In which all men are left without excuſe,</l>
+            <l>By ſhewing them wherein is Condemnation</l>
+            <l>To all the World, that doth the Light abuſe,</l>
+            <l>In which true ſence, Lord, keep thy tender Flock,</l>
+            <l>Alive in thee for their ſafety and Rock.</l>
+         </div>
+         <div type="poem">
+            <pb n="39" facs="tcp:172672:22"/>
+            <head>A Godly Requeſt.</head>
+            <l>LOrd God of Life and Power, thy Truth more ſpread,</l>
+            <l>That they which truly ſeeks within may read,</l>
+            <l>For Truth i'th' inward parts that thou requires,</l>
+            <l>To which, O Lord, ſtrengthen all weak deſires,</l>
+            <l>That Grace &amp; Peace may grow in theſe our dayes</l>
+            <l>By quickning of the dead, thy Name to praiſe,</l>
+            <l>That ſo thy glorious Name may be exalted,</l>
+            <l>And that kept down which hath from thee revolted</l>
+            <l>Which Work, O Lord! thou haſt with us begun,</l>
+            <l>Through ſhining of the Light of thy dear Son:</l>
+            <l>Therefore, O Lord! if that it ſo pleaſe thee,</l>
+            <l>Shine forth on more thy Glory for to ſee,</l>
+            <l>That ſo thy Praiſes may with men encreaſe,</l>
+            <l>And thou mayſt know, who art the God of Peace,</l>
+            <l>That they with us, and we with them may ſing</l>
+            <l>Hallelujahs, and Praiſes unto thee our King.</l>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
